@@ -215,7 +215,7 @@ While the previous two sections are more or less self-explanatory, more attentio
 
 It has been confirmed by studies, but it is also obvious that potential recruiters and agents make assumptions about a person, based on the email address. Although it seems that <em>it is only something that will be copy-pasted</em>, it is still part of the document so people will read it. Addresses like: "greatWoWplayer943@facebook.com" indicate an immature person that is not yet ready for a proper position.
 
-There is a related comic strip from "the oatmeal", which illustrates the situation. (original available here: [http://theoatmeal.com/comics/email_address](http://theoatmeal.com/comics/email_address).<a href="http://dl.dropbox.com/u/1995706/cdn/blog/oatmeal_email.png"><img alt="" src="http://dl.dropbox.com/u/1995706/cdn/blog/oatmeal_email.png" title="Oatmeal-email" class="aligncenter" width="692" height="991" /></a>
+There is a related comic strip from "the oatmeal", which illustrates the situation. (original available here: [http://theoatmeal.com/comics/email_address](http://theoatmeal.com/comics/email_address).<a href="https://cdn.rawgit.com/dimitrismistriotis/cv_writing_guide/master/img/oatmeal_email.png"><img alt="" src="https://cdn.rawgit.com/dimitrismistriotis/cv_writing_guide/master/img/oatmeal_email.png" title="Oatmeal-email" class="aligncenter" width="692" height="991" /></a><br>
 People have written about it extensively, so there are many resources available, this is another one: "[Does your email address say you're a rube?](http://www.zdnet.com/does-your-email-address-say-youre-a-rube-7000002385/)".
 
 This is the most important part of this article, since many people follow a mistaken approach, more than anywhere else.
@@ -426,7 +426,7 @@ The cons of the above is the effort that's required for maintenance and a small 
 
 ###"Being Geek", Michael Loop, O' Reilly###
 
-<img src="https://dl.dropboxusercontent.com/u/1995706/cdn/blog/being_geek_book-1700x2100.jpg">
+<img src="https://cdn.rawgit.com/dimitrismistriotis/cv_writing_guide/master/img/being_geek_book-1700x2100.jpg"><br>
 
 Publisher link (contains free sample): [http://shop.oreilly.com/product/9780596155414.do](http://shop.oreilly.com/product/9780596155414.do)
 
