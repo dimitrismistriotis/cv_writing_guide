@@ -435,3 +435,10 @@ Amazon UK link: [http://www.amazon.co.uk/Being-Geek-Software-Developers-Handbook
 This books has a detailed description of the paths that your CV follows from a recruiter through HR up to a potential technical review from a team lead within a technical organization. This helped to understand and evaluate that people with diverse backgrounds will read and process, each one being equally important, since all of them have veto rejection power. It is also one of the best available orientation guides of the industry.
 
 Author's approach about CV writing is available in his 2007 blog post: "[You've got 30 seconds](http://www.randsinrepose.com/archives/2007/02/25/a_glimpse_and_a_hook.html)".
+
+## Additional links:
+
+[The Only Resume Cheat Sheet You Will Ever Need](http://www.businessnewsdaily.com/6391-the-only-resume-cheat-sheet-you-will-ever-need.html)
+
+![Cheat Sheet](./img/business_news_daily-resume_cheat_sheet.jpg)
+
